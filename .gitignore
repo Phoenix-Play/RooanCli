@@ -2,8 +2,10 @@
 build/
 
 # Source code
-# src/*
-
+src/main/java/assets/
+src/main/java/com/
+src/main/java/mcp/
+src/main/java/net/
 #Run files
 runclient
 
